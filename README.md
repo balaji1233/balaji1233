@@ -1,6 +1,6 @@
 ![logo](https://github.com/balaji1233/balaji1233/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Balaji Rudrawar</h1>
-<h3 align="center">A passionate Backend Developer, Competetive Programmer and AI & ML Enthusist from India.</h3>
+<h3 align="center">A passionate Backend Developer, Competetive Programmer and AI & ML Enthusiast from India.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji1233&label=Profile%20views&color=0e75b6&style=flat" alt="balaji1233" /> </p>
