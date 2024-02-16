@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/balaji25749244" target="blank"><img src="https://img.shields.io/twitter/follow/balaji25749244?logo=twitter&style=for-the-badge" alt="balaji25749244" /></a> </p>
 
-- 🔭 I’m currently working on **Tensorflow,Pytorch,Generative AI **
+- 🔭 I’m currently working on **Tensorflow,Pytorch,Generative AI**
 
 - 🌱 I’m currently learning **Docker,Kubernetes**
 
