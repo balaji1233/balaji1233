@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **on any innovative ML Projects**
 
-- 💬 Ask me about **Java , Python, ML and Data Science,AI**
+- 💬 Ask me about **Java , Python, ML,Data Science and AI**
 
 
 
