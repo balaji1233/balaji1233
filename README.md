@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Tensorflow,Pytorch,Generative AI**
 
-- 🌱 I’m currently learning **Docker,Kubernetes**
+- 🌱 I’m currently learning **Docker, Kubernetes, LLMOps**
 
 - 👯 I’m looking to collaborate on **on any innovative ML Projects**
 
