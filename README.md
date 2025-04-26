@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Tensorflow, Pytorch, Generative AI**
 
-- 🌱 I’m currently learning **LLMs, Agents, LLMOps**
+- 🌱 I’m currently learning **Agents, LLMOps, CUDA, Parallel Computing**
 
 - 👯 I’m looking to collaborate on **on any innovative ML Projects**
 
