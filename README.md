@@ -299,9 +299,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji1233&show_icons=true&locale=en&layout=compact" alt="balaji1233" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji1233&show_icons=true&locale=en" alt="balaji1233" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji1233&" alt="balaji1233" />
