@@ -285,8 +285,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=balaji1233&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
 
 <h3 align="left">Support:</h3>
 <p>
